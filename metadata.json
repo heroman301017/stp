@@ -1,0 +1,5 @@
+{
+  "name": "Sports Transport Planner",
+  "description": "ระบบจัดการการเดินทางสำหรับนักกีฬาจากที่พักไปยังสนามกีฬาตามตารางการแข่งขัน",
+  "requestFramePermissions": []
+}
